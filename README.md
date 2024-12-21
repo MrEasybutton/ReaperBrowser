@@ -38,14 +38,16 @@ The source image for Reaper Browser's startpage logo is from UDTee: https://www.
 ## Installation
 
 ### User
-ISSUE: idk why but i cant build this, i got the error:
-```
-failed to read asset at (...)/src-tauri/target\release\.cargo-lock, and
---> src\lib.rs:14:10
-note: this error originates in the macro tauri::generate_context (in Nightly builds, run with -Z macro-backtrace for more info)
-```
-If anyone knows what went wrong, please do tell me.
-
+Download the corresponding folder in Releases.
+#### Windows
+Run the .msi installer and allow the app to run. You may need to grant admin to install the app in your Program Files.
+#### MacOS
+Run the .dmg or the app directly. It is common to receive the error: "The app is damaged."
+Bypass this by opening your terminal and typing:
+```sudo xattr -rd com.apple.quarantine {APP_PATH_HERE}```
+You can also drag and drop the app from Finder to the terminal to input the file path instantly.
+If successful, you should be able to run the app normally. 
+NOTE: You cannot drag the window for some reason, fix coming soon.
 
 ### Development
 If you're looking to modify, fork or simply take a peek at Reaper Browser's code, download the source code and open the project in your IDE of choice (I'm using WebStorm).

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e9e4fb1-a9b5-4321-ae74-1b9ce14439a5" name="Changes" comment="Minor Rebuild" />
+    <list default="true" id="3e9e4fb1-a9b5-4321-ae74-1b9ce14439a5" name="Changes" comment="Resized initial window" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -28,12 +26,12 @@
     &quot;assignee&quot;: &quot;MrEasybutton&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MrEasybutton/Reaper-Browser.git&quot;,
-    &quot;accountId&quot;: &quot;cecdb27d-7b0b-4edd-95dc-5a024c0c890a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MrEasybutton/ReaperBrowser",
+    "accountId": "535a27b4-0c9d-4325-a9ab-cd5a2e446059"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -41,6 +39,7 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2pKW5qib44FwTdTZfhFfhcOqySa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,6 +48,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -58,8 +58,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "ts.external.directory.path": "C:\\Users\\TYLERKIONGTAILE\\OneDrive - NUS High School\\Documents\\GitHub\\ReaperBrowser\\node_modules\\typescript\\lib",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,7 +77,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
       </set>
     </attachedChunks>
   </component>
@@ -100,7 +100,7 @@
       <workItem from="1734712901773" duration="1516000" />
       <workItem from="1734715050827" duration="1016000" />
       <workItem from="1734718496707" duration="620000" />
-      <workItem from="1734791167380" duration="695000" />
+      <workItem from="1734760186631" duration="3698000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -142,15 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734718907314</updated>
     </task>
-    <task id="LOCAL-00006" summary="Minor Rebuild">
+    <task id="LOCAL-00006" summary="Resized initial window">
       <option name="closed" value="true" />
-      <created>1734791621846</created>
+      <created>1734762814007</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1734791621847</updated>
+      <updated>1734762814007</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Resized initial window">
+      <option name="closed" value="true" />
+      <created>1734763913141</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734763913141</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +184,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="reaper build successful!!!" />
-    <MESSAGE value="Minor Rebuild" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor Rebuild" />
+    <MESSAGE value="Resized initial window" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resized initial window" />
   </component>
 </project>
