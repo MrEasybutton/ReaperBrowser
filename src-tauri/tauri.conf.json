@@ -13,12 +13,13 @@
     "windows": [
       {
         "title": "Reaper Browser",
-        "width": 640,
-        "height": 800,
+        "width": 650,
+        "height": 700,
         "resizable": true,
         "fullscreen": false,
         "transparent": true,
-        "decorations": false
+        "decorations": false,
+        "shadow": true
       }
     ],
     "security": {
