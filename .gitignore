@@ -18,6 +18,7 @@
 /out/
 
 # production
+/src-tauri/target
 /build
 
 # misc
