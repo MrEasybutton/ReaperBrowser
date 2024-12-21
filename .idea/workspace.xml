@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e9e4fb1-a9b5-4321-ae74-1b9ce14439a5" name="Changes" comment="reaper build successful!!!">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="3e9e4fb1-a9b5-4321-ae74-1b9ce14439a5" name="Changes" comment="Resized initial window">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src-tauri/tauri.conf.json" beforeDir="false" afterPath="$PROJECT_DIR$/src-tauri/tauri.conf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +29,12 @@
     &quot;assignee&quot;: &quot;MrEasybutton&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/MrEasybutton/Reaper-Browser.git&quot;,
-    &quot;accountId&quot;: &quot;cecdb27d-7b0b-4edd-95dc-5a024c0c890a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MrEasybutton/ReaperBrowser",
+    "accountId": "535a27b4-0c9d-4325-a9ab-cd5a2e446059"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -105,7 +103,7 @@
       <workItem from="1734712901773" duration="1516000" />
       <workItem from="1734715050827" duration="1016000" />
       <workItem from="1734718496707" duration="620000" />
-      <workItem from="1734760186631" duration="2350000" />
+      <workItem from="1734760186631" duration="3660000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -147,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734718907314</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Resized initial window">
+      <option name="closed" value="true" />
+      <created>1734762814007</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734762814007</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="reaper build successful!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="reaper build successful!!!" />
+    <MESSAGE value="Resized initial window" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resized initial window" />
   </component>
 </project>
